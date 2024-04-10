@@ -1,0 +1,60 @@
+Von:	Professoren <professoren-bounces@ml.hs-mannheim.de> im Auftrag von 
+Michaela Schulz <m.schulz@hs-mannheim.de>
+Gesendet:	Donnerstag, 8. November 2018 14:00
+An:	mitarbeiter@hs-mannheim.de; professoren@hs-mannheim.de
+Betreff:	[Professoren] Tagung der Campus IT/Gefälschte Bewerbungsschreiben
+
+Sehr geehrte Damen und Herren,
+liebe Kolleginnen und Kollegen, 
+
+damit ich Sie heute nur noch einmal belästige, informiere ich Sie gleich über zwei Inhalte.
+
+Zum einen möchte ich Sie auf die Tagung der Campus IT hinweisen. Wir können am 14.11. und am 15.11. 
+nur eingeschränkten Support anbieten, da wir uns wegen einer Tagung alle außer Haus befinden.  
+
+Das bedeutet, dass Sie uns in dringenden Fällen entweder über Ticketing erreichen können oder per E-
+Mail an die Funktionsadressen. Einen telefonischen oder persönlichen Support können wir Ihnen an 
+beiden Tagen nicht anbieten. Ich werde Sie am Montag nochmals hierzu informieren.
+
+Leider habe ich eine weitere Nachricht für Sie – es werden aktuell sehr viele gefälschte 
+Bewerbungsschreiben versendet. Auch hier im Haus kommen nun einige an.
+Der mitgesendete Erpressungstrojaner versucht, die PCs über den Anhang einer Bewerbungsmail zu 
+infizieren. Diese Bewerbungsmail befindet sich in einem Passwort geschützten RAR-Archiv, wobei das 
+Passwort in der E-Mail selbst genannt wird. Vor allem Mitarbeiter/Professoren, die mit Bewerbungen 
+umgehen, sollten darauf achten, angehängte Dateien von Bewerbungen nicht ohne Prüfung zu öffnen.
+Bekannte vorgebliche Absender-Namen sind:
+*	Peter Reif
+*	Peter Schnell
+*	Caroline Schneider
+*	Viktoria Henschel
+Wenn Sie die angehängte Datei entpacken und die darin enthaltene als pdf-Datei gentarnte EXE-Datei 
+ausführen, wird der Computer verschlüsselt und ein Lösegeld über Bitcoin-Zahlung erpresst. Sollten Sie 
+betroffen sein, zahlen Sie bitte nicht das geforderte Erpressungsgeld, sondern informieren uns unter 
+abuse@hs-mannheim.de
+Unter abuse@hs-mannheim.de angefragte Sachverhalte bleiben bei uns stets vertraulich! 
+Die Firma BIT Defender stellt ein kostenloses Tool zur Verfügung, mit der die Verschlüsselung bei einer 
+Variante der aktuellen Malware-Version GandCrab 5.0.4 rückgängig gemacht werden kann: 
+https://www.bitdefender.de/news/entschluesselungs-tool-fuer-ransomware-%E2%80%9Egandcrab-
+veroeffentlicht-3448.html
+Das muss aber natürlich nicht immer funktionieren.
+
+Nochmals eine Bitte in eigener Sache: bitte senden Sie uns keine E-Mails mit Viren/Trojanerverdacht an 
+die Adressen der KollegInnen in der Campus IT! Verwenden Sie immer nur die Adresse abuse@hs-
+mannheim.de. Bereits als Spam markierte E-Mails an uns zu senden, macht keinen Sinn – diese wurden 
+ja bereits als solche gekennzeichnet. Diese löschen Sie bitte.
+
+Ich hoffe, dass ich Sie diese Woche nicht mehr belästigen muss.
+
+Viele Grüße
+Michaela Schulz
+
+Dipl. Inform. (FH) Michaela Schulz, M.A.
+Campus IT und Services der Hochschule Mannheim
+Leiterin
+Paul-Wittsack-Straße 10,              68163 Mannheim
+Tel: 0621/292-6231       Fax: 0621/292-6-6231-2
+E-Mail: m.schulz@hs-mannheim.de
+Internet: http://www.cit.hs-mannheim.de
+Büro: Gebäude H, Raum 509
+--
+
