@@ -1,0 +1,33 @@
+Von:	Professoreni <professoreni-bounces@ml.hs-mannheim.de> im Auftrag von 
+Thomas Kühnau <t.kuehnau@hs-mannheim.de>
+Gesendet:	Freitag, 23. November 2018 15:04
+An:	mitarbeiteri; professoreni
+Betreff:	[Professoreni] oc.informatik
+
+Hallo liebe Kollegen,
+
+
+ich habe eben erfolgreich (hopefully) unsere oc von owncloud 10.xxx auf nextcloud 13.0.8  migriert. 
+Damit laufen beide cloudsysteme (oc.informatik... und owncloud.informatik...) auf aktuellen nextcloud 
+instanzen.
+
+Ein schönes Wochenende wünscht
+
+
+Thomas
+
+
+--
+Thomas Kühnau
+Hochschule Mannheim
+Fakultät für Informatik
+Paul-Wittsack-Straße 10
+68163 Mannheim
+
+Tel.: (0621) 292 6234
+Fax.: (0621) 292 662341
+
+_______________________________________________
+Professoreni mailing list
+Professoreni@ml.hs-mannheim.de
+http://ml.hs-mannheim.de/mailman/listinfo/professoreni

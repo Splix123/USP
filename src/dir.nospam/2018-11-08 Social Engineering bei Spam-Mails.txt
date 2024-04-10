@@ -1,0 +1,92 @@
+Von:	Professoren <professoren-bounces@ml.hs-mannheim.de> im Auftrag von 
+Michaela Schulz <m.schulz@hs-mannheim.de>
+Gesendet:	Donnerstag, 8. November 2018 09:31
+An:	mitarbeiter@hs-mannheim.de; professoren@hs-mannheim.de
+Betreff:	[Professoren] Social Engineering bei Spam-Mails
+
+Sehr geehrte Damen und Herren,
+liebe Kolleginnen und Kollegen,
+
+Sie haben es deutlich gemerkt in dieser Woche: die Anzahl von Spam-Mails mit Rechnungen von 
+bekannten Personen (gefälscht) halt deutlich zugenommen.
+Das BSI bittet uns, nochmals auf diese spezielle Situation hinzuweisen.
+Dem komme ich natürlich gerne nach.
+
+Ich zitiere Ihnen hier die Original-Mail vom BSI.
++++
+Cyberkriminelle versenden derzeit erneut in großem Umfang Spam-Mails zur Verbreitung von Schadprogrammen. 
+Dabei nutzen sie gezielt den Empfängern bekannte Absender von Mitarbeitern in der jeweiligen Organisation. Das 
+BSI hat bereits zahlreiche Anfragen von Behörden und Unternehmen enthalten, bei denen entsprechende Mails 
+eingegangen sind. In den Mails wird angegeben, dass sich im Anhang eine Rechnung befände. Tatsächlich enthalten 
+die Mails stattdessen einen Link. Beim Aufruf des Links wird eine Word-Datei (.doc) heruntergeladen, welche 
+schädliche Makros enthält. Wird die schädliche Word-Datei geöffnet und die Ausführung von Makros erlaubt, wird 
+über die Makros automatisch Schadsoftware aus dem Internet nachgeladen und auf dem betroffenen System 
+installiert.
+
+
+Ende Oktober 2018 hat der IT-Sicherheitsdienstleister Kryptos Logic ein neues "Outlook Harvesting"-Modul 
+desBanking-Trojaners Emotet entdeckt. Während bereits in der Vergangenheit mithilfe der Microsoft Outlook 
+Messaging API (MAPI) Outlook-Kontakte ausgespäht wurden, die es ermöglichten Kommunikationsbeziehungen 
+abzubilden und damit den Empfänger der E-Mails verstärkt zur Ausführung der Schadprogramme zu verleiten, geht 
+das neue E-Mail-Modul darüber hinaus. Hierbei werden die E-Mails innerhalb der letzten 180 Tage ausgewertet. 
+Daraufhin werden folgende Informationen inBase64-kodierter Form an die Command & Control Server der 
+Angreifer übermittelt:
+	Absendername und E-Mail-Adresse,
+	Empfängername und E-Mail-Adresse,
+	Betreff,
+	Die ersten 16 KB des Nachrichteninhalts.
++++
+
+Was sollten Sie darüber wissen?
+Über neue Techniken erhält der Angreifer Vor- und Nachnamen, Betreffzeilen und einen kleinen Teil der 
+Nachrichteninhalte. Diese werden genutzt, um ganz gezielt Spammailinhalte zu basteln. Je besser das 
+gemacht wird, umso mehr Personen werden auf die anhängende Datei oder auf Links klicken. Es klingt ja 
+auch schöner, mit dem gesamten Namen angesprochen zu werden, als nur mit dem Nachnamen. Z.B. 
+„Hallo Michaela Schulz“, statt „Hallo Schulz“. Und noch besser, wenn man den Inhalt erwartet. Die 
+ausgespähten Inhalte von E-Mails können zudem vertrauliche Inhalte enthalten, die so in die Hände 
+Dritter gelangen.
+
+Wie schützen Sie sich?
+Rechnen Sie auch bei (angeblich) Bekannten mit dieser Masche und klicken Sie keinerlei Dateianhänge 
+oder Links in E-Mails direkt an. Prüfen Sie immer ganz genau den Absender über die Funktion 
+Datei/Eigenschaften Kopfzeilen (in Outlook). Schweben Sie zudem über die Links ohne Klicken, um 
+Adressen anzuzeigen.
+Hochschul-Mailadressen werden prinzipiell nur über authentisierte Konten versendet. Sie können also 
+entweder die Adresse des Mailservers (mail.hs-mannheim.de bzw. stud.hs-mannheim.de) oder/und die 
+Adresse des Absenders (m.schulz@hs-mannheim.de, michaela.mustermann@stud.hs-mannheim.de, 
+a.mustermann@lba.hs-mannheim.de, a.mustermann@doktoranden.hs-mannheim.de usw.) sehen.
+
+Versenden von vertraulichen Inhalten?
+Wir haben eine Campuslizenz für Adobe DC. Mit Hilfe der Software erzeugen Sie ein PDF Dokument (aus 
+Ihrer Word/Excel/… Datei). Wenn Sie das Dokument dann speichern, können Sie über das Menü 
+Datei/Eigenschaften/Sicherheit ein Berechtigungskennwort für das Dokument vergeben. Über 
+Sicherheitssystem, wählen Sie Kennwortschutz und aktivieren Sie „Kennwort zum Öffnen des Dokuments 
+erforderlich“. Geben Sie dann ein Kennwort ein. Dieses Kennwort muss dann eingegeben werden, um 
+das Dokument zu öffnen. 
+Das Kennwort nennen Sie der Zielperson am besten per Telefon.
+Es ist mir durchaus klar, dass das umständlich ist. Für vertrauliche Dokumente sollten Sie aber diesen 
+Weg wählen.
+
+Im Vergleich mit anderen Hochschulen, ist das Sicherheitsempfinden unserer Kollegen und Kolleginnen 
+hier als sehr hoch einzustufen. Wir sind bei weitem nicht so weitflächig und häufig von Trojanern 
+betroffen wie andere. Bleiben Sie daher immer wachsam und schicken Sie uns im Zweifelsfall Ihre E-
+Mails an abuse@hs-mannheim.de .
+
+Wenn Sie Fragen oder Wünsche haben, melden Sie sich bitte einfach per Ticketing an support.cit@hs-
+mannheim.de
+
+Ich wünsche Ihnen eine gute Restwoche!
+
+Viele Grüße
+Michaela Schulz
+
+Dipl. Inform. (FH) Michaela Schulz, M.A.
+Campus IT und Services der Hochschule Mannheim
+Leiterin
+Paul-Wittsack-Straße 10,              68163 Mannheim
+Tel: 0621/292-6231       Fax: 0621/292-6-6231-2
+E-Mail: m.schulz@hs-mannheim.de
+Internet: http://www.cit.hs-mannheim.de
+Büro: Gebäude H, Raum 509
+--
+
